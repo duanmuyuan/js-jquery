@@ -35,7 +35,7 @@
     "html-webpack-plugin": "^2.30.1",
     "html-withimg-loader": "^0.1.16",
     "mint-ui": "^2.2.13",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "open-browser-webpack-plugin": "0.0.5",
     "postcss": "^6.0.13",
     "postcss-loader": "^2.0.8",
