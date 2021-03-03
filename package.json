@@ -40,7 +40,7 @@
     "postcss": "^6.0.13",
     "postcss-loader": "^2.0.8",
     "precss": "^2.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-filters": "^3.1.0",
     "pug-loader": "^2.4.0",
     "qs": "^6.5.2",
