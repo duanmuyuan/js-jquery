@@ -78,7 +78,7 @@
     "js-cookie": "^2.2.0",
     "mobile-detect": "^1.4.1",
     "showdown": "^1.8.6",
-    "swiper": "^4.3.3",
+    "swiper": "^6.5.1",
     "video.js": "^6.8.0",
     "videojs-contrib-hls": "^5.14.1",
     "vue": "^2.5.2",
