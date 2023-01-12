@@ -62,7 +62,7 @@
     "vuex": "^3.0.0",
     "vux": "^2.6.5",
     "vux-loader": "^1.1.14-rc.1",
-    "web-dev-server": "^1.1.1",
+    "web-dev-server": "^1.6.7",
     "webpack": "^3.3.0",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-dev-server": "^2.7.1",
